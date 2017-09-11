@@ -14,6 +14,7 @@ namespace BilletLib
         public int Pris()
         {
             return 240;
+
         }
 
         public string Køretøj()
